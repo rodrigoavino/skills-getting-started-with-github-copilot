@@ -29,7 +29,7 @@ activities = {
     },
     "Programming Class": {
         "description": "Learn programming fundamentals and build software projects",
-        "schedule": "Tuesdays and Thursdays, 3:30 PM - 4:30 PM",
+        "schedule": "Tuesdays and Thursdays, aaaaa 3:30 PM - 4:30 PM",
         "max_participants": 20,
         "participants": ["emma@mergington.edu", "sophia@mergington.edu"]
     },
